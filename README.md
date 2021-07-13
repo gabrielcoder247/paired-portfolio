@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](media/hello-microverse.png)
+![screenshot](images/my-portfolio.png)
 
 Additional description about the project and its features.
 
